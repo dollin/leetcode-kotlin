@@ -1,0 +1,8 @@
+.git
+.github
+.gradle
+.idea
+**/*.iml
+gradle/wrapper/gradle-wrapper.jar
+**/build/
+!api/build/libs/api.jar
