@@ -1,6 +1,7 @@
 package com.dollin.leetcode.arrays.easy
 
-import org.junit.jupiter.api.Assertions.*
+import org.junit.jupiter.api.Assertions.assertFalse
+import org.junit.jupiter.api.Assertions.assertTrue
 import org.junit.jupiter.api.Test
 
 class PalindromeNumberTest {
