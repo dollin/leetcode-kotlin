@@ -1,7 +1,7 @@
 [versions]
 kotlin = "2.4.0"
 junit-jupiter = "6.1.2"
-detekt = "2.0.0-alpha.5"
+detekt = "2.0.0-alpha.6"
 
 [libraries]
 junit-jupiter = { module = "org.junit.jupiter:junit-jupiter", version.ref = "junit-jupiter" }
